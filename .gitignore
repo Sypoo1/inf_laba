@@ -1,3 +1,6 @@
+*.txt
+N1пш
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
